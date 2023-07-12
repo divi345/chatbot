@@ -1,6 +1,6 @@
  ChatBot
 
-Coding Nexus ChatBot uses the OpenAI API to create a chatbot.
+ChatBot uses the OpenAI API to create a chatbot.
 
 ## Installation
 
